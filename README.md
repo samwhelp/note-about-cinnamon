@@ -1,19 +1,38 @@
 
+
 # 首頁
 
-* [note-about-cinnamon](https://samwhelp.github.io/note-about-cinnamon/) ([GitHub](https://github.com/samwhelp/note-about-cinnamon))
+| Link | GitHub |
+| ---- | ------ |
+| [Cinnamon Adjustment](https://samwhelp.github.io/cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/cinnamon-adjustment) |
+| [Cinnamon 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
 
 
-## 主題
 
-* [相關筆記](#相關筆記)
+
+## 微調腳本
+
+| 微調腳本 |
+| --- |
+| [Boron](https://github.com/samwhelp/cinnamon-adjustment/tree/main/prototype/main/bunsen-config/Main) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤](https://samwhelp.github.io/note-about-cinnamon/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-cinnamon/read/config/mousebind.html) |
+
+
 
 
 ## 相關筆記
 
-## samwhelp
-
-* [個人筆記](https://samwhelp.github.io/book/)
-* [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
-* [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
+| Link | GitHub |
+| ---- | ------ |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
+| [Tint2 探索筆記](https://samwhelp.github.io/note-about-tint2/) | [GitHub](https://github.com/samwhelp/note-about-tint2) |
