@@ -10,15 +10,6 @@
 
 
 
-## 微調腳本
-
-| 微調腳本 |
-| --- |
-| [Boron](https://github.com/samwhelp/cinnamon-adjustment/tree/main/prototype/main/bunsen-config/Main) |
-
-
-
-
 ## 按鍵綁定
 
 | 按鍵綁定 |
