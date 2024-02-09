@@ -1,12 +1,13 @@
 ---
-title: Ezarch
+title: Ezarcher
 nav_order: 9021
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 
-# Ezarch
+# Ezarcher
 
 ## 相關連結
 

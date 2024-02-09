@@ -2,7 +2,8 @@
 title: Ubuntu Cinnamon Remix
 nav_order: 9012
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 

@@ -2,7 +2,8 @@
 title: Debian
 nav_order: 9011
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 
