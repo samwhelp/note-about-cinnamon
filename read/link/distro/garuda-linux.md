@@ -9,6 +9,10 @@ grand_parent: 連結
 
 # Garuda Linux
 
+
+
+
 ## 相關連結
 
 * Garuda Linux / [Download](https://garudalinux.org/downloads.html) / [Cinnamon](https://sourceforge.net/projects/garuda-linux/files/garuda/cinnamon/)
+* [Garuda Cinnamon](https://samwhelp.github.io/note-about-garuda-cinnamon/)
