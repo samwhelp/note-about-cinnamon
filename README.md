@@ -10,8 +10,9 @@
 
 
 
-## Subject
+## 主題
 
+* [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
@@ -43,9 +44,17 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
-| [Linux Mint Cinnamon 探索筆記](https://samwhelp.github.io/note-about-linuxmint-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-cinnamon) |
+| [LinuxMint Cinnamon 探索筆記](https://samwhelp.github.io/note-about-linuxmint-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-cinnamon) |
+| [Lmde Cinnamon 探索筆記](https://samwhelp.github.io/note-about-lmde-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-lmde-cinnamon) |
 | [Ubuntu Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
+| [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
 | [Fedora Cinnamon 探索筆記](https://samwhelp.github.io/note-about-fedora-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cinnamon) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Archlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-archlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cinnamon) |
+| [Voidlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-voidlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-cinnamon) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
