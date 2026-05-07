@@ -20,6 +20,21 @@
 
 
 
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [cinnamon-adjustment](https://github.com/samwhelp/cinnamon-adjustment/tree/main/demo/scripts/main/cinnamon-adjustment) |
+
+
+| Style Management |
+| ---------------- |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+
+
+
+
 ## 按鍵綁定
 
 | 按鍵綁定 |
